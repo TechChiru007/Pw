@@ -1,0 +1,30 @@
+we need 
+1. nodejs it's js run time environment.
+2. Vscode ide
+
+basic cmd
+* node -v  // check the version of node in our system
+* npm -v //npm vesrion
+* npm init playwright@latest //to install playwright
+* npm install -g  playwright // global install so that we can use cmd like playwright open "url"
+* playwright install
+ 
+ official site :- https://playwright.dev/docs/intro
+
+ package.json file contain info about our project.
+
+ npx playwright --version // check version of playwright
+
+ npx playwright open https://app.thetestingacademy.com/    //practice website
+
+//codegen is a recorder to generate script
+
+playwright codegen https://app.thetestingacademy.com/
+
+
+// playwright-cli is for agents  not for us
+
+imp link http://npmjs.com/package/@playwright/cli
+npm install -g @playwright/cli@latest
+playwright-cli --help
+
