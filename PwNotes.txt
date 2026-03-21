@@ -28,3 +28,4 @@ imp link http://npmjs.com/package/@playwright/cli
 npm install -g @playwright/cli@latest
 playwright-cli --help
 
+// we can use clear cmd to clean terminal
