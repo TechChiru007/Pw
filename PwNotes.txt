@@ -29,3 +29,6 @@ npm install -g @playwright/cli@latest
 playwright-cli --help
 
 // we can use clear cmd to clean terminal
+
+// cmd to run specific test 
+npx playwright test Practice.spec.js --ui
