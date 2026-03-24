@@ -32,3 +32,12 @@ playwright-cli --help
 
 // cmd to run specific test 
 npx playwright test Practice.spec.js --ui
+
+//how to setup mcp 
+add extension of playwright mcp
+
+install playwright mcp
+npm install playwright/mcp
+or 
+npm install git+https://github.com/microsoft/playwright-mcp.git
+
